@@ -106,10 +106,10 @@ const wuxy1997 = {
 
 ---
 
-### `$ github --trophies`
+### `$ lang --distribution`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wuxy1997&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxy1997&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00ff94&text_color=3a9970&langs_count=8&count_private=true" width="38%"/>
 </div>
 
 ---
