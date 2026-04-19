@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050a0e,50:003d26,100:00ff94&height=200&section=header&text=大木头WU&fontSize=60&fontColor=00ff94&fontAlignY=55&animation=twinkling&desc=代码改变世界·开源连接你我&descSize=16&descAlignY=80&descColor=3a9970" width="100%"/>
 
 <!-- 打字机动效 -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2800&pause=800&color=00FF94&background=050a0e00&center=true&vCenter=true&multiline=false&width=680&lines=%5B+SYSTEM+BOOT+%5D+%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%AD...;%24+whoami+%E2%86%92+%E5%A4%A7%E6%9C%A8%E5%A4%B4WU+(wuxy97);%24+cat+motto.txt+%E2%86%92+%E4%BB%A3%E7%A0%81%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%EF%BC%8C%E5%BC%80%E6%BA%90%E8%BF%9E%E6%8E%A5%E4%BD%A0%E6%88%91;Code+Changes+the+World+%7C+Open+Source+Connects+Us+All;%24+status+%E2%86%92+%E6%B0%B8%E8%BF%9C%E5%9C%A8%E8%B7%AF%E4%B8%8A+%F0%9F%9A%80;%5B+ALL+SYSTEMS+OPERATIONAL+%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2800&pause=800&color=00FF94&background=050a0e00&center=true&vCenter=true&multiline=false&width=680&lines=%5B+SYSTEM+BOOT+%5D+%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%AD...;%24+whoami+%E2%86%92+%E5%A4%A7%E6%9C%A8%E5%A4%B4WU+(wuxy1997);%24+cat+motto.txt+%E2%86%92+%E4%BB%A3%E7%A0%81%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%EF%BC%8C%E5%BC%80%E6%BA%90%E8%BF%9E%E6%8E%A5%E4%BD%A0%E6%88%91;Code+Changes+the+World+%7C+Open+Source+Connects+Us+All;%24+status+%E2%86%92+%E6%B0%B8%E8%BF%9C%E5%9C%A8%E8%B7%AF%E4%B8%8A+%F0%9F%9A%80;%5B+ALL+SYSTEMS+OPERATIONAL+%5D" alt="Typing SVG" />
 
 <br/>
 
 <!-- 徽章组 -->
 ![](https://img.shields.io/badge/-%F0%9F%87%A8%F0%9F%87%B3_China-050a0e?style=flat-square&labelColor=050a0e&color=050a0e&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxIDEiPjxyZWN0IGZpbGw9IiMwMGZmOTQiLz48L3N2Zz4=)
-![Visitors](https://komarev.com/ghpvc/?username=wuxy97&style=flat-square&color=00ff94&labelColor=050a0e&label=VISITORS)
-![](https://img.shields.io/github/followers/wuxy97?style=flat-square&color=00ff94&labelColor=050a0e&label=FOLLOWERS)
+![Visitors](https://komarev.com/ghpvc/?username=wuxy1997&style=flat-square&color=00ff94&labelColor=050a0e&label=VISITORS)
+![](https://img.shields.io/github/followers/wuxy1997?style=flat-square&color=00ff94&labelColor=050a0e&label=FOLLOWERS)
 
 </div>
 
@@ -25,9 +25,9 @@
 ### `$ whoami`
 
 ```javascript
-const wuxy97 = {
+const wuxy1997 = {
   name:     "大木头WU",
-  username: "wuxy97",
+  username: "wuxy1997",
   role:     ["Developer", "Blogger", "OSS Lover"],
   blog:     "大木头WU的技术博客",
   motto:    "代码改变世界，开源连接你我",
@@ -43,7 +43,7 @@ const wuxy97 = {
 
 ### `$ github --stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=wuxy97&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00ff94&icon_color=00ff94&text_color=3a9970&ring_color=00ff94&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wuxy1997&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00ff94&icon_color=00ff94&text_color=3a9970&ring_color=00ff94&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ const wuxy97 = {
 ### `$ git log --streak`
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wuxy97&theme=chartreuse-dark&hide_border=true&background=050a0e&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&sideLabels=3a9970&dates=3a9970&stroke=0f3028&currStreakNum=00ff94&sideNums=3a9970" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wuxy1997&theme=chartreuse-dark&hide_border=true&background=050a0e&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&sideLabels=3a9970&dates=3a9970&stroke=0f3028&currStreakNum=00ff94&sideNums=3a9970" width="70%"/>
 </div>
 
 ---
@@ -98,7 +98,7 @@ const wuxy97 = {
 ### `$ contribution --graph`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wuxy97&bg_color=050a0e&color=00ff94&line=00ff94&point=00ff94&area=true&area_color=00ff9415&hide_border=true&custom_title=%5B+CONTRIBUTION+GRAPH+%5D+wuxy97" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wuxy1997&bg_color=050a0e&color=00ff94&line=00ff94&point=00ff94&area=true&area_color=00ff9415&hide_border=true&custom_title=%5B+CONTRIBUTION+GRAPH+%5D+wuxy1997" width="100%"/>
 </div>
 
 ---
@@ -109,14 +109,14 @@ const wuxy97 = {
 
 ### `$ github --trophies`
 
-<img src="https://github-profile-trophy.vercel.app/?username=wuxy97&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=6&title=Commit,Stars,Repositories,Followers" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wuxy1997&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=6&title=Commit,Stars,Repositories,Followers" width="100%"/>
 
 </td>
 <td width="50%">
 
 ### `$ lang --distribution`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxy97&layout=pie&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00ff94&text_color=3a9970&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuxy1997&layout=pie&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00ff94&text_color=3a9970&langs_count=6" width="100%"/>
 
 </td>
 </tr>
@@ -132,8 +132,8 @@ const wuxy97 = {
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/📖_访问博客-大木头WU的技术博客-00ff94?style=for-the-badge&labelColor=050a0e)](https://github.com/wuxy97)
-[![GitHub](https://img.shields.io/badge/⚡_GitHub-wuxy97-00ff94?style=for-the-badge&labelColor=050a0e&logo=github&logoColor=00ff94)](https://github.com/wuxy97)
+[![Blog](https://img.shields.io/badge/📖_访问博客-大木头WU的技术博客-00ff94?style=for-the-badge&labelColor=050a0e)](https://github.com/wuxy1997)
+[![GitHub](https://img.shields.io/badge/⚡_GitHub-wuxy1997-00ff94?style=for-the-badge&labelColor=050a0e&logo=github&logoColor=00ff94)](https://github.com/wuxy1997)
 
 </div>
 
@@ -148,7 +148,7 @@ const wuxy97 = {
 ║   Code Changes the World,                           ║
 ║   Open Source Connects Us All.                      ║
 ║                                                      ║
-║                                    — 大木头WU (wuxy97)║
+║                                    — 大木头WU (wuxy1997)║
 ╚══════════════════════════════════════════════════════╝
 ```
 
