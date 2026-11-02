@@ -1,0 +1,39 @@
+name: refresh-profile
+
+on:
+  schedule:
+    - cron: '23 1 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install fonttools==4.66.1
+      - uses: actions/cache@v4
+        with:
+          path: .fonts
+          key: fonts-${{ hashFiles('scripts/fetch_fonts.py') }}
+      - run: python scripts/fetch_fonts.py
+      - run: python scripts/collect.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - run: python scripts/render.py
+      - name: Commit changes
+        run: |
+          git add README.md assets data
+          if git diff --cached --quiet; then
+            echo 'nothing changed'
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Refresh profile panels'
+            git push
+          fi
