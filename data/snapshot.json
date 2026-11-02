@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-11-02",
+  "since": "2023-06-26",
+  "public_repos": 18,
+  "languages": [
+    {
+      "name": "TypeScript",
+      "pct": 37.0
+    },
+    {
+      "name": "Vue",
+      "pct": 26.0
+    },
+    {
+      "name": "JavaScript",
+      "pct": 21.7
+    },
+    {
+      "name": "Python",
+      "pct": 13.2
+    },
+    {
+      "name": "C#",
+      "pct": 1.9
+    }
+  ],
+  "last_push": {
+    "repo": "AI-video",
+    "date": "2026-08-01"
+  },
+  "repos": {
+    "AI-video": {
+      "language": "TypeScript",
+      "pushed": "2026-08-01"
+    },
+    "Alicloud-oss-last-edited-time-sort-and-batch-move": {
+      "language": "C#",
+      "pushed": "2025-11-21"
+    },
+    "Federated-Reinforcement-Learning-for-Mobile-Edge-Computing-Rebuild-t": {
+      "language": "Python",
+      "pushed": "2025-07-11"
+    },
+    "PDFsplitmerger": {
+      "language": "Python",
+      "pushed": "2025-06-19"
+    },
+    "SARS-CoV-2-AI-Analyzer": {
+      "language": "JavaScript",
+      "pushed": "2025-06-04"
+    },
+    "Com6102gp5": {
+      "language": "TypeScript",
+      "pushed": "2025-05-26"
+    },
+    "6104gp-ai-auto-reports": {
+      "language": "HTML",
+      "pushed": "2025-04-25"
+    },
+    "6102": {
+      "language": "Vue",
+      "pushed": "2025-04-17"
+    },
+    "61041": {
+      "language": "Python",
+      "pushed": "2025-03-16"
+    },
+    "6102lab7": {
+      "language": null,
+      "pushed": "2025-03-04"
+    },
+    "Guessing-game": {
+      "language": "Java",
+      "pushed": "2023-11-17"
+    },
+    "icebreak": {
+      "language": "Java",
+      "pushed": "2023-11-17"
+    },
+    "tictactoe": {
+      "language": "Python",
+      "pushed": "2023-11-17"
+    },
+    "Snake-game-": {
+      "language": "Python",
+      "pushed": "2023-11-17"
+    },
+    "tictac": {
+      "language": null,
+      "pushed": "2023-06-26"
+    },
+    "hi": {
+      "language": null,
+      "pushed": "2023-06-26"
+    }
+  },
+  "posts": [
+    {
+      "title": "TypeScript + Vue 3 实战：现代前端开发最佳实践",
+      "date": "2026-01-07",
+      "category": "技术分享",
+      "url": "https://wuxy1997.github.io/2026/01/07/2026-01-07-typescript-vue3-best-practices/"
+    },
+    {
+      "title": "联邦强化学习：隐私保护下的分布式学习探索",
+      "date": "2026-01-07",
+      "category": "技术研究",
+      "url": "https://wuxy1997.github.io/2026/01/07/2026-01-07-federated-reinforcement-learning-project/"
+    },
+    {
+      "title": "Python 开发效率提升技巧：从新手到进阶",
+      "date": "2026-01-07",
+      "category": "技术教程",
+      "url": "https://wuxy1997.github.io/2026/01/07/2026-01-07-python-efficiency-tips/"
+    },
+    {
+      "title": "从零开始打造阿里云 OSS 批量管理工具",
+      "date": "2026-01-07",
+      "category": "项目展示",
+      "url": "https://wuxy1997.github.io/2026/01/07/2026-01-07-alicloud-oss-tool/"
+    },
+    {
+      "title": "联邦学习与边缘计算：保护隐私的 AI 未来",
+      "date": "2026-01-07",
+      "category": "技术研究",
+      "url": "https://wuxy1997.github.io/2026/01/06/2026-01-07-federated-learning-edge-computing/"
+    },
+    {
+      "title": "我的开源项目集合",
+      "date": "2026-01-07",
+      "category": "项目展示",
+      "url": "https://wuxy1997.github.io/2026/01/06/2026-01-07-my-open-source-projects/"
+    },
+    {
+      "title": "从零开始的 Web 开发之旅",
+      "date": "2026-01-07",
+      "category": "技术教程",
+      "url": "https://wuxy1997.github.io/2026/01/06/2026-01-07-web-development-journey/"
+    },
+    {
+      "title": "Python 开发技巧分享",
+      "date": "2026-01-07",
+      "category": "技术分享",
+      "url": "https://wuxy1997.github.io/2026/01/06/2026-01-07-python-development-tips/"
+    },
+    {
+      "title": "白夜行摘录",
+      "date": "2025-05-31",
+      "category": "读书笔记",
+      "url": "https://wuxy1997.github.io/2025/05/30/2025-05-31-white-night-walk/"
+    },
+    {
+      "title": "Welcome to My Blog",
+      "date": "2024-03-20",
+      "category": "博客日志",
+      "url": "https://wuxy1997.github.io/2024/03/19/2024-03-20-welcome-to-my-blog/"
+    }
+  ]
+}

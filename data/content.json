@@ -1,0 +1,154 @@
+{
+  "login": "Wuxy1997",
+  "name": "大木头WU",
+  "handle": "WUXY1997",
+  "role": "工程师 · 人工智能与全栈开发",
+  "role_en": "ENGINEER / AI AND FULL-STACK DEVELOPMENT",
+  "motto": "代码改变世界，开源连接你我",
+  "motto_en": "CODE CHANGES THE WORLD. OPEN SOURCE CONNECTS US ALL.",
+  "intro": "喜欢用代码解决实际问题，在 GitHub 上分享开源项目和学习心得。",
+  "links": {
+    "home": "https://wuxy1997.github.io/",
+    "archive": "https://wuxy1997.github.io/archives/",
+    "about": "https://wuxy1997.github.io/about/",
+    "github": "https://github.com/Wuxy1997",
+    "repos": "https://github.com/Wuxy1997?tab=repositories"
+  },
+  "languages": ["Python", "TypeScript", "JavaScript", "C#", "Java"],
+  "fields": [
+    { "cn": "人工智能与机器学习", "en": "AI / ML" },
+    { "cn": "边缘计算", "en": "EDGE COMPUTING" },
+    { "cn": "隐私保护", "en": "PRIVACY" },
+    { "cn": "全栈开发", "en": "FULL STACK" }
+  ],
+  "tools": ["Git", "Docker", "GitHub Actions", "阿里云", "Hexo", "VS Code"],
+  "interests": [
+    "深度学习在边缘计算中的应用",
+    "隐私保护机器学习",
+    "现代 Web 技术栈",
+    "跨平台应用开发",
+    "用户体验与前端工程化"
+  ],
+  "projects": [
+    {
+      "id": "storyboarder",
+      "repo": "AI-video",
+      "title": "StoryboardER",
+      "cn": "AI 分镜创作工具",
+      "tag": "WEB / AI",
+      "stack": ["Next.js", "TypeScript", "ffmpeg.wasm"],
+      "desc": "把无结构的故事大纲，变成可预览、可导出的视觉分镜序列。",
+      "points": [
+        "默认使用浏览器本地分镜引擎，不需要 API Key",
+        "可离线跑通核心流程",
+        "可选接入大模型拆镜和文生图"
+      ],
+      "readme": true
+    },
+    {
+      "id": "frl-mec",
+      "repo": "Federated-Reinforcement-Learning-for-Mobile-Edge-Computing-Rebuild-t",
+      "title": "FRL for MEC",
+      "cn": "边缘计算联邦强化学习",
+      "tag": "RESEARCH",
+      "stack": ["Python", "Federated Learning", "RL"],
+      "desc": "面向移动边缘计算的鲁棒联邦强化学习框架，聚焦微服务迁移优化。",
+      "points": [
+        "融合联邦学习与强化学习",
+        "包含鲁棒聚合方法的实现",
+        "在保护隐私的前提下做分布式资源优化"
+      ],
+      "readme": true
+    },
+    {
+      "id": "sars-analyzer",
+      "repo": "SARS-CoV-2-AI-Analyzer",
+      "title": "SARS-CoV-2 AI Analyzer",
+      "cn": "变异株分析平台",
+      "tag": "RESEARCH",
+      "stack": ["JavaScript", "Python", "ML"],
+      "desc": "结合机器学习与规则方法分析病毒突变，预测其潜在影响。",
+      "points": [
+        "突变影响预测",
+        "变异株跟踪与交互式可视化",
+        "面向公共卫生决策的分析"
+      ],
+      "readme": true
+    },
+    {
+      "id": "oss-manager",
+      "repo": "Alicloud-oss-last-edited-time-sort-and-batch-move",
+      "title": "Aliyun OSS Manager",
+      "cn": "阿里云 OSS 桌面管理工具",
+      "tag": "TOOL",
+      "stack": ["C#", "WPF"],
+      "desc": "Windows 桌面应用，按修改时间排序并批量移动 OSS 存储桶里的文件。",
+      "points": [
+        "文件夹层级导航与路径历史",
+        "按最后修改时间排序",
+        "批量移动与文件上传"
+      ],
+      "readme": true
+    },
+    {
+      "id": "pdf-splitter",
+      "repo": "PDFsplitmerger",
+      "title": "PDF Splitter",
+      "cn": "PDF 分割合并工具",
+      "tag": "TOOL",
+      "stack": ["Python"],
+      "desc": "按页码范围、页数或书签分割 PDF，也能合并多个文件，界面中英双语。",
+      "points": [
+        "四种分割方式：范围、页数、书签、自定义",
+        "多文件合并",
+        "中英双语界面"
+      ],
+      "readme": true
+    },
+    {
+      "id": "health-tracker",
+      "repo": "Com6102gp5",
+      "title": "Health Tracker",
+      "cn": "AI 健康管理应用",
+      "tag": "WEB / AI",
+      "stack": ["Next.js", "TypeScript", "Ollama"],
+      "desc": "记录运动、饮食和健康数据，由 Ollama 模型给出个性化建议。团队项目。",
+      "points": [
+        "运动、饮食与健康数据管理",
+        "基于 Ollama 的个性化建议",
+        "数据可视化、多语言和深色模式"
+      ],
+      "readme": true
+    },
+    {
+      "id": "auto-reports",
+      "repo": "6104gp-ai-auto-reports",
+      "title": "Auto Report Generator",
+      "cn": "数据报告自动生成工具",
+      "tag": "WEB / AI",
+      "stack": ["Python", "AI"],
+      "desc": "自动分析数据集，生成可视化图表和 AI 洞察，输出完整报告。",
+      "points": [
+        "缺失值、异常值与归一化处理",
+        "多种图表和 AI 洞察",
+        "中英双语，支持多种报告格式"
+      ],
+      "readme": false
+    },
+    {
+      "id": "mini-games",
+      "repo": "Snake-game-",
+      "title": "Mini Games",
+      "cn": "经典小游戏集合",
+      "tag": "PLAY",
+      "stack": ["Python", "Java"],
+      "desc": "贪吃蛇、井字棋、猜数字和 Icebreak，写来练手的小游戏。",
+      "points": [
+        "贪吃蛇：Python",
+        "井字棋：Python",
+        "猜数字、Icebreak：Java"
+      ],
+      "readme": false
+    }
+  ]
+}
